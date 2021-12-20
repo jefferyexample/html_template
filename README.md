@@ -4,6 +4,6 @@
 
 ## 示例图
 
-![橙色](https://github.com/jefferyexample/info_manager_template1/blob/master/%E6%A9%99%E8%89%B2/WechatIMG90.png?raw=true)
+![橙色](%E6%A9%99%E8%89%B2/WechatIMG90.png?raw=true)
 
-![蓝色](https://github.com/jefferyexample/info_manager_template1/blob/master/%E8%93%9D%E8%89%B2/WechatIMG91.png?raw=true)
+![蓝色](%E8%93%9D%E8%89%B2/WechatIMG91.png?raw=true)
